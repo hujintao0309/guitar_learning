@@ -13,7 +13,7 @@
 	],
 	"docsify": {
 	  "config": {
-		"basePath": "https://docsify.js.org/",
+		"basePath": "https://hujintao0309.github.io/guitar_learning/",
 		"loadSidebar": true,
 		"loadNavbar": true,
 		"coverpage": true,
